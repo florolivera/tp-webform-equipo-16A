@@ -1,5 +1,5 @@
 ﻿<%@ Page Title="¡Listo!" Language="C#" MasterPageFile="~/Site.Master"
-    AutoEventWireup="true" CodeBehind="Exito.aspx.cs" Inherits="TPWebForm_equipo_16A.Exito" %>
+    AutoEventWireup="true" CodeBehind="Exito.aspx.cs" Inherits="catalogo_web.Exito" %>
 <asp:Content ID="c1" ContentPlaceHolderID="MainContent" runat="server">
   <div class="text-center">
     <h3 class="mb-3">¡Registro exitoso!</h3>

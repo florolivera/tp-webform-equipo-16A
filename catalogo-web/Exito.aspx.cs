@@ -1,5 +1,5 @@
 ﻿using System;
-namespace TPWebForm_equipo_16A 
+namespace catalogo_web 
 {
     public partial class Exito : System.Web.UI.Page 
     {

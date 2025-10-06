@@ -7,7 +7,7 @@
 // </generado automáticamente>
 //------------------------------------------------------------------------------
 
-namespace TPWebForm_equipo_16A
+namespace catalogo_web
 {
 
 

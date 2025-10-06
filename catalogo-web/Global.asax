@@ -1,1 +1,1 @@
-﻿<%@ Application Codebehind="Global.asax.cs" Inherits="TPWebForm_equipo_16A.Global" Language="C#" %>
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="catalogo_web.Global" Language="C#" %>

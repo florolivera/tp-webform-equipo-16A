@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace TPWebForm_equipo_16A {
+namespace catalogo_web {
     
     
     public partial class Site_Mobile {

@@ -7,7 +7,7 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using Microsoft.AspNet.FriendlyUrls.Resolvers;
 
-namespace TPWebForm_equipo_16A
+namespace catalogo_web
 {
     public partial class ViewSwitcher : System.Web.UI.UserControl
     {

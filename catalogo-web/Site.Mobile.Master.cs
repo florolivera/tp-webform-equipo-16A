@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace TPWebForm_equipo_16A
+namespace catalogo_web
 {
     public partial class Site_Mobile : System.Web.UI.MasterPage
     {

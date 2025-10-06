@@ -1,5 +1,5 @@
 ﻿<%@ Page Title="Elegir premio" Language="C#" MasterPageFile="~/Site.Master"
-    AutoEventWireup="true" CodeBehind="Premios.aspx.cs" Inherits="TPWebForm_equipo_16A.Premios" %>
+    AutoEventWireup="true" CodeBehind="Premios.aspx.cs" Inherits="catalogo_web.Premios" %>
 <asp:Content ID="c1" ContentPlaceHolderID="MainContent" runat="server">
   <h3 class="mb-4">Elegí tu premio</h3>
   <asp:Repeater ID="repPremios" runat="server">

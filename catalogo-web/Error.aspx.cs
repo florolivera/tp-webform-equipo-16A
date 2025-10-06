@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TPWebForm_equipo_16A
+namespace catalogo_web
 {
     public partial class Error : System.Web.UI.Page
     {

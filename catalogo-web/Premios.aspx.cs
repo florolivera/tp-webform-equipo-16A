@@ -2,10 +2,11 @@
 using System.Linq;
 using System.Collections.Generic;
 using System.Web.UI.WebControls;
+using negocio;
+using dominio;
 using Negocio;
-using Dominio;
 
-namespace TPWebForm_equipo_16A
+namespace catalogo_web
 {
     public partial class Premios : System.Web.UI.Page
     {
