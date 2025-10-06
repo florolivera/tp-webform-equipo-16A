@@ -43,7 +43,6 @@ SELECT CodigoVoucher, IdCliente, IdArticulo, FechaCanje
             var datos = new AccesoDB();
             try
             {
-                // UPDATE con guardas de no-uso + devolvemos @@ROWCOUNT para saber si afectó 1 fila
                 datos.setearConsulta(@"
 UPDATE Vouchers
    SET IdCliente = @cli, IdArticulo = @art, FechaCanje = GETDATE()

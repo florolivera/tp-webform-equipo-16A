@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9FFF3F75-EDD8-46B1-8EE0-D5B4B66F562C}|catalogo-web\\catalogo-web.csproj|c:\\users\\flore\\onedrive\\escritorio\\tec. programacion\\programacion iii\\repos\\webforms\\tpwebforms_equipo-16a\\catalogo-web\\registro.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FFF3F75-EDD8-46B1-8EE0-D5B4B66F562C}|catalogo-web\\catalogo-web.csproj|solutionrelative:catalogo-web\\registro.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E49439-7B2E-4028-9D47-CECB47D328FB}|negocio\\negocio.csproj|C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\negocio\\vouchernegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E49439-7B2E-4028-9D47-CECB47D328FB}|negocio\\negocio.csproj|solutionrelative:negocio\\vouchernegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFF3F75-EDD8-46B1-8EE0-D5B4B66F562C}|catalogo-web\\catalogo-web.csproj|c:\\users\\flore\\onedrive\\escritorio\\tec. programacion\\programacion iii\\repos\\webforms\\tpwebforms_equipo-16a\\catalogo-web\\registro.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9FFF3F75-EDD8-46B1-8EE0-D5B4B66F562C}|catalogo-web\\catalogo-web.csproj|solutionrelative:catalogo-web\\registro.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFF3F75-EDD8-46B1-8EE0-D5B4B66F562C}|catalogo-web\\catalogo-web.csproj|C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\catalogo-web\\premios.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9FFF3F75-EDD8-46B1-8EE0-D5B4B66F562C}|catalogo-web\\catalogo-web.csproj|solutionrelative:catalogo-web\\premios.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFF3F75-EDD8-46B1-8EE0-D5B4B66F562C}|catalogo-web\\catalogo-web.csproj|C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\catalogo-web\\premios.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FFF3F75-EDD8-46B1-8EE0-D5B4B66F562C}|catalogo-web\\catalogo-web.csproj|solutionrelative:catalogo-web\\premios.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFF3F75-EDD8-46B1-8EE0-D5B4B66F562C}|catalogo-web\\catalogo-web.csproj|C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\catalogo-web\\voucher.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{9FFF3F75-EDD8-46B1-8EE0-D5B4B66F562C}|catalogo-web\\catalogo-web.csproj|solutionrelative:catalogo-web\\voucher.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9FFF3F75-EDD8-46B1-8EE0-D5B4B66F562C}|catalogo-web\\catalogo-web.csproj|c:\\users\\flore\\onedrive\\escritorio\\tec. programacion\\programacion iii\\repos\\webforms\\tpwebforms_equipo-16a\\catalogo-web\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{9FFF3F75-EDD8-46B1-8EE0-D5B4B66F562C}|catalogo-web\\catalogo-web.csproj|solutionrelative:catalogo-web\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9FFF3F75-EDD8-46B1-8EE0-D5B4B66F562C}|catalogo-web\\catalogo-web.csproj|C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\catalogo-web\\voucher.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FFF3F75-EDD8-46B1-8EE0-D5B4B66F562C}|catalogo-web\\catalogo-web.csproj|solutionrelative:catalogo-web\\voucher.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9FFF3F75-EDD8-46B1-8EE0-D5B4B66F562C}|catalogo-web\\catalogo-web.csproj|C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\catalogo-web\\voucher.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{9FFF3F75-EDD8-46B1-8EE0-D5B4B66F562C}|catalogo-web\\catalogo-web.csproj|solutionrelative:catalogo-web\\voucher.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9FFF3F75-EDD8-46B1-8EE0-D5B4B66F562C}|catalogo-web\\catalogo-web.csproj|c:\\users\\flore\\onedrive\\escritorio\\tec. programacion\\programacion iii\\repos\\webforms\\tpwebforms_equipo-16a\\catalogo-web\\global.asax||{4D30FDB3-AB3E-4810-B6F2-64627BCCA384}",
@@ -33,14 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9FFF3F75-EDD8-46B1-8EE0-D5B4B66F562C}|catalogo-web\\catalogo-web.csproj|C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\catalogo-web\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{9FFF3F75-EDD8-46B1-8EE0-D5B4B66F562C}|catalogo-web\\catalogo-web.csproj|solutionrelative:catalogo-web\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9FFF3F75-EDD8-46B1-8EE0-D5B4B66F562C}|catalogo-web\\catalogo-web.csproj|C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\catalogo-web\\premios.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FFF3F75-EDD8-46B1-8EE0-D5B4B66F562C}|catalogo-web\\catalogo-web.csproj|solutionrelative:catalogo-web\\premios.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9FFF3F75-EDD8-46B1-8EE0-D5B4B66F562C}|catalogo-web\\catalogo-web.csproj|C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\catalogo-web\\premios.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{9FFF3F75-EDD8-46B1-8EE0-D5B4B66F562C}|catalogo-web\\catalogo-web.csproj|solutionrelative:catalogo-web\\premios.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9FFF3F75-EDD8-46B1-8EE0-D5B4B66F562C}|catalogo-web\\catalogo-web.csproj|C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\catalogo-web\\exito.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -119,10 +131,6 @@
       "RelativeMoniker": "D:0:0:{62E49439-7B2E-4028-9D47-CECB47D328FB}|negocio\\negocio.csproj|solutionrelative:negocio\\premiosnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62E49439-7B2E-4028-9D47-CECB47D328FB}|negocio\\negocio.csproj|C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\negocio\\vouchernegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62E49439-7B2E-4028-9D47-CECB47D328FB}|negocio\\negocio.csproj|solutionrelative:negocio\\vouchernegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4C8DA83B-959C-48A6-BE17-89975195257A}|dominio\\dominio.csproj|C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\dominio\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C8DA83B-959C-48A6-BE17-89975195257A}|dominio\\dominio.csproj|solutionrelative:dominio\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -138,37 +146,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Voucher.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\catalogo-web\\Voucher.aspx.cs",
-              "RelativeDocumentMoniker": "catalogo-web\\Voucher.aspx.cs",
-              "ToolTip": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\catalogo-web\\Voucher.aspx.cs",
-              "RelativeToolTip": "catalogo-web\\Voucher.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Registro.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\catalogo-web\\Registro.aspx.cs",
+              "RelativeDocumentMoniker": "catalogo-web\\Registro.aspx.cs",
+              "ToolTip": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\catalogo-web\\Registro.aspx.cs",
+              "RelativeToolTip": "catalogo-web\\Registro.aspx.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADYAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T01:01:10.45Z",
+              "WhenOpened": "2025-10-06T02:21:57.455Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Registro.aspx",
+              "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\catalogo-web\\Registro.aspx",
+              "RelativeDocumentMoniker": "catalogo-web\\Registro.aspx",
+              "ToolTip": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\catalogo-web\\Registro.aspx",
+              "RelativeToolTip": "catalogo-web\\Registro.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-06T02:20:14.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\catalogo-web\\Web.config",
               "RelativeDocumentMoniker": "catalogo-web\\Web.config",
               "ToolTip": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\catalogo-web\\Web.config",
               "RelativeToolTip": "catalogo-web\\Web.config",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAiwBoAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2025-10-06T00:56:48.748Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Voucher.aspx",
               "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\catalogo-web\\Voucher.aspx",
               "RelativeDocumentMoniker": "catalogo-web\\Voucher.aspx",
@@ -181,20 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Global.asax",
-              "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\catalogo-web\\Global.asax",
-              "RelativeDocumentMoniker": "catalogo-web\\Global.asax",
-              "ToolTip": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\catalogo-web\\Global.asax",
-              "RelativeToolTip": "catalogo-web\\Global.asax",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000179|",
-              "WhenOpened": "2025-10-06T02:08:49.638Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Global.asax.cs",
               "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\catalogo-web\\Global.asax.cs",
               "RelativeDocumentMoniker": "catalogo-web\\Global.asax.cs",
@@ -207,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "readme.txt",
               "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\packages\\Microsoft.AspNet.FriendlyUrls.1.0.2\\readme.txt",
               "RelativeDocumentMoniker": "packages\\Microsoft.AspNet.FriendlyUrls.1.0.2\\readme.txt",
@@ -219,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "Premios.aspx",
               "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\catalogo-web\\Premios.aspx",
               "RelativeDocumentMoniker": "catalogo-web\\Premios.aspx",
@@ -227,11 +235,12 @@
               "RelativeToolTip": "catalogo-web\\Premios.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-10-06T01:52:15.336Z"
+              "WhenOpened": "2025-10-06T01:52:15.336Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Exito.aspx.cs",
               "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\catalogo-web\\Exito.aspx.cs",
               "RelativeDocumentMoniker": "catalogo-web\\Exito.aspx.cs",
@@ -243,7 +252,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
+              "Title": "VoucherNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\negocio\\VoucherNegocio.cs",
+              "RelativeDocumentMoniker": "negocio\\VoucherNegocio.cs",
+              "ToolTip": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\negocio\\VoucherNegocio.cs*",
+              "RelativeToolTip": "negocio\\VoucherNegocio.cs*",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAiwCwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T00:49:59.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Global.asax",
+              "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\catalogo-web\\Global.asax",
+              "RelativeDocumentMoniker": "catalogo-web\\Global.asax",
+              "ToolTip": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\catalogo-web\\Global.asax",
+              "RelativeToolTip": "catalogo-web\\Global.asax",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000179|",
+              "WhenOpened": "2025-10-06T02:08:49.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Site.Master",
               "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\catalogo-web\\Site.Master",
               "RelativeDocumentMoniker": "catalogo-web\\Site.Master",
@@ -256,7 +291,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
+              "Title": "Premios.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\catalogo-web\\Premios.aspx.cs",
+              "RelativeDocumentMoniker": "catalogo-web\\Premios.aspx.cs",
+              "ToolTip": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\catalogo-web\\Premios.aspx.cs",
+              "RelativeToolTip": "catalogo-web\\Premios.aspx.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T01:51:21.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Voucher.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\catalogo-web\\Voucher.aspx.cs",
+              "RelativeDocumentMoniker": "catalogo-web\\Voucher.aspx.cs",
+              "ToolTip": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\catalogo-web\\Voucher.aspx.cs",
+              "RelativeToolTip": "catalogo-web\\Voucher.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T01:01:10.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "ViewSwitcher.ascx.cs",
               "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\catalogo-web\\ViewSwitcher.ascx.cs",
               "RelativeDocumentMoniker": "catalogo-web\\ViewSwitcher.ascx.cs",
@@ -268,7 +329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Exito.aspx",
               "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\catalogo-web\\Exito.aspx",
               "RelativeDocumentMoniker": "catalogo-web\\Exito.aspx",
@@ -280,7 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Error.aspx.designer.cs",
               "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\catalogo-web\\Error.aspx.designer.cs",
               "RelativeDocumentMoniker": "catalogo-web\\Error.aspx.designer.cs",
@@ -292,7 +353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Error.aspx.cs",
               "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\catalogo-web\\Error.aspx.cs",
               "RelativeDocumentMoniker": "catalogo-web\\Error.aspx.cs",
@@ -304,7 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Error.aspx",
               "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\catalogo-web\\Error.aspx",
               "RelativeDocumentMoniker": "catalogo-web\\Error.aspx",
@@ -316,24 +377,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Premios.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\catalogo-web\\Premios.aspx.cs",
-              "RelativeDocumentMoniker": "catalogo-web\\Premios.aspx.cs",
-              "ToolTip": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\catalogo-web\\Premios.aspx.cs",
-              "RelativeToolTip": "catalogo-web\\Premios.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T01:51:21.308Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "Voucher.aspx.designer.cs",
               "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\catalogo-web\\Voucher.aspx.designer.cs",
               "RelativeDocumentMoniker": "catalogo-web\\Voucher.aspx.designer.cs",
-              "ToolTip": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\catalogo-web\\Voucher.aspx.designer.cs*",
-              "RelativeToolTip": "catalogo-web\\Voucher.aspx.designer.cs*",
+              "ToolTip": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\catalogo-web\\Voucher.aspx.designer.cs",
+              "RelativeToolTip": "catalogo-web\\Voucher.aspx.designer.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAIBJwBcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-06T01:01:18.151Z",
@@ -341,7 +390,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Site.Master.cs",
               "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\catalogo-web\\Site.Master.cs",
               "RelativeDocumentMoniker": "catalogo-web\\Site.Master.cs",
@@ -353,7 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "Site.Master.designer.cs",
               "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\catalogo-web\\Site.Master.designer.cs",
               "RelativeDocumentMoniker": "catalogo-web\\Site.Master.designer.cs",
@@ -365,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\dominio\\Cliente.cs",
               "RelativeDocumentMoniker": "dominio\\Cliente.cs",
@@ -377,7 +426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "Imagen.cs",
               "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\dominio\\Imagen.cs",
               "RelativeDocumentMoniker": "dominio\\Imagen.cs",
@@ -389,7 +438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "Categoria.cs",
               "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\dominio\\Categoria.cs",
               "RelativeDocumentMoniker": "dominio\\Categoria.cs",
@@ -401,7 +450,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "ArticuloNegocio.cs",
               "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\negocio\\ArticuloNegocio.cs",
               "RelativeDocumentMoniker": "negocio\\ArticuloNegocio.cs",
@@ -413,7 +462,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "AccesoDB.cs",
               "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\negocio\\AccesoDB.cs",
               "RelativeDocumentMoniker": "negocio\\AccesoDB.cs",
@@ -425,7 +474,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "CategoriaNegocio.cs",
               "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\negocio\\CategoriaNegocio.cs",
               "RelativeDocumentMoniker": "negocio\\CategoriaNegocio.cs",
@@ -437,7 +486,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "ClienteNegocio.cs",
               "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\negocio\\ClienteNegocio.cs",
               "RelativeDocumentMoniker": "negocio\\ClienteNegocio.cs",
@@ -449,7 +498,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "ImagenNegocio.cs",
               "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\negocio\\ImagenNegocio.cs",
               "RelativeDocumentMoniker": "negocio\\ImagenNegocio.cs",
@@ -461,7 +510,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "PremiosNegocio.cs",
               "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\negocio\\PremiosNegocio.cs",
               "RelativeDocumentMoniker": "negocio\\PremiosNegocio.cs",
@@ -473,7 +522,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "Articulo.cs",
               "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\dominio\\Articulo.cs",
               "RelativeDocumentMoniker": "dominio\\Articulo.cs",
@@ -485,19 +534,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "VoucherNegocio.cs",
-              "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\negocio\\VoucherNegocio.cs",
-              "RelativeDocumentMoniker": "negocio\\VoucherNegocio.cs",
-              "ToolTip": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\negocio\\VoucherNegocio.cs",
-              "RelativeToolTip": "negocio\\VoucherNegocio.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAiwD0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T00:49:59.62Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "MarcaNegocio.cs",
               "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\negocio\\MarcaNegocio.cs",
               "RelativeDocumentMoniker": "negocio\\MarcaNegocio.cs",
@@ -509,7 +546,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "Voucher.cs",
               "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\dominio\\Voucher.cs",
               "RelativeDocumentMoniker": "dominio\\Voucher.cs",
@@ -521,7 +558,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "Marca.cs",
               "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\dominio\\Marca.cs",
               "RelativeDocumentMoniker": "dominio\\Marca.cs",
