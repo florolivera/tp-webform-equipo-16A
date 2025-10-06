@@ -1,12 +1,326 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFF3F75-EDD8-46B1-8EE0-D5B4B66F562C}|catalogo-web\\catalogo-web.csproj|c:\\users\\flore\\onedrive\\escritorio\\tec. programacion\\programacion iii\\repos\\webforms\\tpwebforms_equipo-16a\\catalogo-web\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{9FFF3F75-EDD8-46B1-8EE0-D5B4B66F562C}|catalogo-web\\catalogo-web.csproj|solutionrelative:catalogo-web\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFF3F75-EDD8-46B1-8EE0-D5B4B66F562C}|catalogo-web\\catalogo-web.csproj|c:\\users\\flore\\onedrive\\escritorio\\tec. programacion\\programacion iii\\repos\\webforms\\tpwebforms_equipo-16a\\catalogo-web\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FFF3F75-EDD8-46B1-8EE0-D5B4B66F562C}|catalogo-web\\catalogo-web.csproj|solutionrelative:catalogo-web\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFF3F75-EDD8-46B1-8EE0-D5B4B66F562C}|catalogo-web\\catalogo-web.csproj|c:\\users\\flore\\onedrive\\escritorio\\tec. programacion\\programacion iii\\repos\\webforms\\tpwebforms_equipo-16a\\catalogo-web\\site.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FFF3F75-EDD8-46B1-8EE0-D5B4B66F562C}|catalogo-web\\catalogo-web.csproj|solutionrelative:catalogo-web\\site.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFF3F75-EDD8-46B1-8EE0-D5B4B66F562C}|catalogo-web\\catalogo-web.csproj|c:\\users\\flore\\onedrive\\escritorio\\tec. programacion\\programacion iii\\repos\\webforms\\tpwebforms_equipo-16a\\catalogo-web\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9FFF3F75-EDD8-46B1-8EE0-D5B4B66F562C}|catalogo-web\\catalogo-web.csproj|solutionrelative:catalogo-web\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E49439-7B2E-4028-9D47-CECB47D328FB}|negocio\\negocio.csproj|c:\\users\\flore\\onedrive\\escritorio\\tec. programacion\\programacion iii\\repos\\webforms\\tpwebforms_equipo-16a\\negocio\\articulonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E49439-7B2E-4028-9D47-CECB47D328FB}|negocio\\negocio.csproj|solutionrelative:negocio\\articulonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E49439-7B2E-4028-9D47-CECB47D328FB}|negocio\\negocio.csproj|c:\\users\\flore\\onedrive\\escritorio\\tec. programacion\\programacion iii\\repos\\webforms\\tpwebforms_equipo-16a\\negocio\\categorianegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E49439-7B2E-4028-9D47-CECB47D328FB}|negocio\\negocio.csproj|solutionrelative:negocio\\categorianegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E49439-7B2E-4028-9D47-CECB47D328FB}|negocio\\negocio.csproj|c:\\users\\flore\\onedrive\\escritorio\\tec. programacion\\programacion iii\\repos\\webforms\\tpwebforms_equipo-16a\\negocio\\imagennegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E49439-7B2E-4028-9D47-CECB47D328FB}|negocio\\negocio.csproj|solutionrelative:negocio\\imagennegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8DA83B-959C-48A6-BE17-89975195257A}|dominio\\dominio.csproj|c:\\users\\flore\\onedrive\\escritorio\\tec. programacion\\programacion iii\\repos\\webforms\\tpwebforms_equipo-16a\\dominio\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8DA83B-959C-48A6-BE17-89975195257A}|dominio\\dominio.csproj|solutionrelative:dominio\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8DA83B-959C-48A6-BE17-89975195257A}|dominio\\dominio.csproj|c:\\users\\flore\\onedrive\\escritorio\\tec. programacion\\programacion iii\\repos\\webforms\\tpwebforms_equipo-16a\\dominio\\imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8DA83B-959C-48A6-BE17-89975195257A}|dominio\\dominio.csproj|solutionrelative:dominio\\imagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8DA83B-959C-48A6-BE17-89975195257A}|dominio\\dominio.csproj|c:\\users\\flore\\onedrive\\escritorio\\tec. programacion\\programacion iii\\repos\\webforms\\tpwebforms_equipo-16a\\dominio\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8DA83B-959C-48A6-BE17-89975195257A}|dominio\\dominio.csproj|solutionrelative:dominio\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8DA83B-959C-48A6-BE17-89975195257A}|dominio\\dominio.csproj|C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8DA83B-959C-48A6-BE17-89975195257A}|dominio\\dominio.csproj|solutionrelative:dominio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E49439-7B2E-4028-9D47-CECB47D328FB}|negocio\\negocio.csproj|c:\\users\\flore\\onedrive\\escritorio\\tec. programacion\\programacion iii\\repos\\webforms\\tpwebforms_equipo-16a\\negocio\\accesodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E49439-7B2E-4028-9D47-CECB47D328FB}|negocio\\negocio.csproj|solutionrelative:negocio\\accesodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E49439-7B2E-4028-9D47-CECB47D328FB}|negocio\\negocio.csproj|c:\\users\\flore\\onedrive\\escritorio\\tec. programacion\\programacion iii\\repos\\webforms\\tpwebforms_equipo-16a\\negocio\\clientenegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E49439-7B2E-4028-9D47-CECB47D328FB}|negocio\\negocio.csproj|solutionrelative:negocio\\clientenegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E49439-7B2E-4028-9D47-CECB47D328FB}|negocio\\negocio.csproj|c:\\users\\flore\\onedrive\\escritorio\\tec. programacion\\programacion iii\\repos\\webforms\\tpwebforms_equipo-16a\\negocio\\marcanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E49439-7B2E-4028-9D47-CECB47D328FB}|negocio\\negocio.csproj|solutionrelative:negocio\\marcanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E49439-7B2E-4028-9D47-CECB47D328FB}|negocio\\negocio.csproj|c:\\users\\flore\\onedrive\\escritorio\\tec. programacion\\programacion iii\\repos\\webforms\\tpwebforms_equipo-16a\\negocio\\premiosnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E49439-7B2E-4028-9D47-CECB47D328FB}|negocio\\negocio.csproj|solutionrelative:negocio\\premiosnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E49439-7B2E-4028-9D47-CECB47D328FB}|negocio\\negocio.csproj|c:\\users\\flore\\onedrive\\escritorio\\tec. programacion\\programacion iii\\repos\\webforms\\tpwebforms_equipo-16a\\negocio\\vouchernegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E49439-7B2E-4028-9D47-CECB47D328FB}|negocio\\negocio.csproj|solutionrelative:negocio\\vouchernegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8DA83B-959C-48A6-BE17-89975195257A}|dominio\\dominio.csproj|c:\\users\\flore\\onedrive\\escritorio\\tec. programacion\\programacion iii\\repos\\webforms\\tpwebforms_equipo-16a\\dominio\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8DA83B-959C-48A6-BE17-89975195257A}|dominio\\dominio.csproj|solutionrelative:dominio\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C8DA83B-959C-48A6-BE17-89975195257A}|dominio\\dominio.csproj|C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\dominio\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C8DA83B-959C-48A6-BE17-89975195257A}|dominio\\dominio.csproj|solutionrelative:dominio\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Site.Master.cs",
+              "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\catalogo-web\\Site.Master.cs",
+              "RelativeDocumentMoniker": "catalogo-web\\Site.Master.cs",
+              "ToolTip": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\catalogo-web\\Site.Master.cs",
+              "RelativeToolTip": "catalogo-web\\Site.Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T00:58:47.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Site.Master.designer.cs",
+              "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\catalogo-web\\Site.Master.designer.cs",
+              "RelativeDocumentMoniker": "catalogo-web\\Site.Master.designer.cs",
+              "ToolTip": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\catalogo-web\\Site.Master.designer.cs*",
+              "RelativeToolTip": "catalogo-web\\Site.Master.designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T00:58:22.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\catalogo-web\\Site.Master",
+              "RelativeDocumentMoniker": "catalogo-web\\Site.Master",
+              "ToolTip": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\catalogo-web\\Site.Master",
+              "RelativeToolTip": "catalogo-web\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-06T00:58:01.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\catalogo-web\\Web.config",
+              "RelativeDocumentMoniker": "catalogo-web\\Web.config",
+              "ToolTip": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\catalogo-web\\Web.config",
+              "RelativeToolTip": "catalogo-web\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-06T00:56:48.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\dominio\\Cliente.cs",
+              "RelativeDocumentMoniker": "dominio\\Cliente.cs",
+              "ToolTip": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\dominio\\Cliente.cs",
+              "RelativeToolTip": "dominio\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T00:54:48.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Imagen.cs",
+              "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\dominio\\Imagen.cs",
+              "RelativeDocumentMoniker": "dominio\\Imagen.cs",
+              "ToolTip": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\dominio\\Imagen.cs",
+              "RelativeToolTip": "dominio\\Imagen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T00:54:23.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\dominio\\Categoria.cs",
+              "RelativeDocumentMoniker": "dominio\\Categoria.cs",
+              "ToolTip": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\dominio\\Categoria.cs",
+              "RelativeToolTip": "dominio\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T00:54:32.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArticuloNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\negocio\\ArticuloNegocio.cs",
+              "RelativeDocumentMoniker": "negocio\\ArticuloNegocio.cs",
+              "ToolTip": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\negocio\\ArticuloNegocio.cs",
+              "RelativeToolTip": "negocio\\ArticuloNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T00:48:29.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccesoDB.cs",
+              "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\negocio\\AccesoDB.cs",
+              "RelativeDocumentMoniker": "negocio\\AccesoDB.cs",
+              "ToolTip": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\negocio\\AccesoDB.cs",
+              "RelativeToolTip": "negocio\\AccesoDB.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T00:51:45.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoriaNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\negocio\\CategoriaNegocio.cs",
+              "RelativeDocumentMoniker": "negocio\\CategoriaNegocio.cs",
+              "ToolTip": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\negocio\\CategoriaNegocio.cs",
+              "RelativeToolTip": "negocio\\CategoriaNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T00:51:10.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClienteNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\negocio\\ClienteNegocio.cs",
+              "RelativeDocumentMoniker": "negocio\\ClienteNegocio.cs",
+              "ToolTip": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\negocio\\ClienteNegocio.cs",
+              "RelativeToolTip": "negocio\\ClienteNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T00:51:09.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ImagenNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\negocio\\ImagenNegocio.cs",
+              "RelativeDocumentMoniker": "negocio\\ImagenNegocio.cs",
+              "ToolTip": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\negocio\\ImagenNegocio.cs",
+              "RelativeToolTip": "negocio\\ImagenNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T00:51:07.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PremiosNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\negocio\\PremiosNegocio.cs",
+              "RelativeDocumentMoniker": "negocio\\PremiosNegocio.cs",
+              "ToolTip": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\negocio\\PremiosNegocio.cs",
+              "RelativeToolTip": "negocio\\PremiosNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T00:49:43.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\dominio\\Articulo.cs",
+              "RelativeDocumentMoniker": "dominio\\Articulo.cs",
+              "ToolTip": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\dominio\\Articulo.cs",
+              "RelativeToolTip": "dominio\\Articulo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T21:03:27.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VoucherNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\negocio\\VoucherNegocio.cs",
+              "RelativeDocumentMoniker": "negocio\\VoucherNegocio.cs",
+              "ToolTip": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\negocio\\VoucherNegocio.cs",
+              "RelativeToolTip": "negocio\\VoucherNegocio.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAiwD0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T00:49:59.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MarcaNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\negocio\\MarcaNegocio.cs",
+              "RelativeDocumentMoniker": "negocio\\MarcaNegocio.cs",
+              "ToolTip": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\negocio\\MarcaNegocio.cs",
+              "RelativeToolTip": "negocio\\MarcaNegocio.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAiwEMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T00:49:19.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Voucher.cs",
+              "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\dominio\\Voucher.cs",
+              "RelativeDocumentMoniker": "dominio\\Voucher.cs",
+              "ToolTip": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\dominio\\Voucher.cs",
+              "RelativeToolTip": "dominio\\Voucher.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA6wBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T21:04:38.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Marca.cs",
+              "DocumentMoniker": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\dominio\\Marca.cs",
+              "RelativeDocumentMoniker": "dominio\\Marca.cs",
+              "ToolTip": "C:\\Users\\flore\\OneDrive\\Escritorio\\TEC. PROGRAMACION\\Programacion III\\repos\\Webforms\\TPWebForms_equipo-16A\\dominio\\Marca.cs",
+              "RelativeToolTip": "dominio\\Marca.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T21:03:55.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -1,5 +1,4 @@
-﻿using Dominio;
-using Dominio;
+﻿using dominio;
 using negocio;
 using System;
 using System.Collections.Generic;
