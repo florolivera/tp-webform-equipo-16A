@@ -1,78 +1,82 @@
-﻿// negocio/ClienteNegocio.cs
+﻿using dominio;
 using System;
-using negocio;
-using dominio;
-using Negocio;
 
 namespace negocio
 {
     public class ClienteNegocio
     {
-        public Cliente ObtenerPorDocumento(string documento)
+        public Cliente ObtenerPorDni(string dni)
         {
             var datos = new AccesoDB();
             try
             {
-                datos.setearConsulta(@"SELECT Id, Documento, Nombre, Apellido, Email, Direccion, Ciudad, CP
-                                       FROM Clientes WHERE Documento = @doc");
-                datos.setearParametro("@doc", documento);
+                datos.setearConsulta(@"
+SELECT TOP 1 Id, Documento, Nombre, Apellido, Email, Direccion, Ciudad, CP
+FROM Clientes
+WHERE Documento = @dni;");
+                datos.setearParametro("@dni", dni);
                 datos.ejecutarLectura();
-                if (!datos.Lector.Read()) return null;
 
-                return new Cliente
+                if (datos.Lector.Read())
                 {
-                    Id = (int)datos.Lector["Id"],
-                    Documento = (string)datos.Lector["Documento"],
-                    Nombre = (string)datos.Lector["Nombre"],
-                    Apellido = (string)datos.Lector["Apellido"],
-                    Email = (string)datos.Lector["Email"],
-                    Direccion = (string)datos.Lector["Direccion"],
-                    Ciudad = (string)datos.Lector["Ciudad"],
-                    CP = (int)datos.Lector["CP"]
-                };
+                    var c = new Cliente();
+                    c.Id = Convert.ToInt32(datos.Lector["Id"]);
+                    c.Documento = datos.Lector["Documento"]?.ToString();
+                    c.Nombre = datos.Lector["Nombre"]?.ToString();
+                    c.Apellido = datos.Lector["Apellido"]?.ToString();
+                    c.Email = datos.Lector["Email"]?.ToString();
+                    c.Direccion = datos.Lector["Direccion"]?.ToString();
+                    c.Ciudad = datos.Lector["Ciudad"]?.ToString();
+                    c.CP = datos.Lector["CP"] is DBNull ? 0 : Convert.ToInt32(datos.Lector["CP"]);
+                    return c;
+                }
+                return null;
             }
             finally { datos.cerrarConexion(); }
         }
 
-        /// Inserta si no existe (por Documento). Si existe, actualiza y devuelve Id.
         public int Guardar(Cliente c)
         {
-            var existente = ObtenerPorDocumento(c.Documento);
             var datos = new AccesoDB();
-
             try
             {
-                if (existente == null)
-                {
-                    datos.setearConsulta(@"
-INSERT INTO Clientes(Documento, Nombre, Apellido, Email, Direccion, Ciudad, CP)
-OUTPUT INSERTED.Id
-VALUES(@doc, @nom, @ape, @em, @dir, @ciu, @cp)");
-                }
-                else
-                {
-                    c.Id = existente.Id;
-                    // patrón del profe: update + SELECT @id; para tener un escalar que leer
-                    datos.setearConsulta(@"
-UPDATE Clientes
-   SET Nombre=@nom, Apellido=@ape, Email=@em, Direccion=@dir, Ciudad=@ciu, CP=@cp
- WHERE Id=@id;
-SELECT @id;");
-                    datos.setearParametro("@id", c.Id);
-                }
+                datos.setearConsulta(@"
+DECLARE @id INT;
 
-                datos.setearParametro("@doc", c.Documento);
-                datos.setearParametro("@nom", c.Nombre);
-                datos.setearParametro("@ape", c.Apellido);
-                datos.setearParametro("@em", c.Email);
-                datos.setearParametro("@dir", c.Direccion);
-                datos.setearParametro("@ciu", c.Ciudad);
+SELECT @id = Id FROM Clientes WHERE Documento = @doc;
+
+IF @id IS NULL
+BEGIN
+    INSERT INTO Clientes (Documento, Nombre, Apellido, Email, Direccion, Ciudad, CP)
+    VALUES (@doc, @nom, @ape, @mail, @dir, @ciu, @cp);
+    SET @id = SCOPE_IDENTITY();
+END
+ELSE
+BEGIN
+    UPDATE Clientes
+       SET Nombre = @nom,
+           Apellido = @ape,
+           Email = @mail,
+           Direccion = @dir,
+           Ciudad = @ciu,
+           CP = @cp
+     WHERE Id = @id;
+END
+
+SELECT @id AS Id;");
+                datos.setearParametro("@doc", c.Documento ?? "");
+                datos.setearParametro("@nom", c.Nombre ?? "");
+                datos.setearParametro("@ape", c.Apellido ?? "");
+                datos.setearParametro("@mail", c.Email ?? "");
+                datos.setearParametro("@dir", c.Direccion ?? "");
+                datos.setearParametro("@ciu", c.Ciudad ?? "");
                 datos.setearParametro("@cp", c.CP);
 
-                // Igual que en los ejemplos: leer el escalar con ejecutarLectura()/Lector.Read()
-                datos.ejecutarLectura();                        // ← usa el “lector” como en el profe
-                datos.Lector.Read();
-                return Convert.ToInt32(datos.Lector[0]);        // ← Id devuelto
+                datos.ejecutarLectura();
+                int id = 0;
+                if (datos.Lector.Read())
+                    id = Convert.ToInt32(datos.Lector["Id"]);
+                return id;
             }
             finally { datos.cerrarConexion(); }
         }
